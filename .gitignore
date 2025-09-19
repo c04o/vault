@@ -1,0 +1,17 @@
+# Obsidian
+.obsidian/*
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+
+# Swap/backup
+*~
+.*.swp
+.*.swo
+*.un~
+
+.directory
+.Trash-*
+.nfs*
+
+.DS_Store
+Thumbs.db
